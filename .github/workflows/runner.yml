@@ -1,8 +1,8 @@
 name: Runner
 
 on:
-  schedule:
-    - cron: "0 22 * * *" #Github Action使用的时间为UTC时间，中国使用UTC+8，所对应的是北京时间早6:00，但由于任务排队等原因，实际执行时间为6:20左右，如有需要可更改
+  #schedule:
+  # - cron: "0 22 * * *" #Github Action使用的时间为UTC时间，中国使用UTC+8，所对应的是北京时间早6:00，但由于任务排队等原因，实际执行时间为6:20左右，如有需要可更改
   watch:
     types: [started]
 
