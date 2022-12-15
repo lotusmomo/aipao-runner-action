@@ -1,6 +1,6 @@
 # 使用 Github Actions 的爱跑自动跑步脚本
 
-> 如果您认为`BIOS `是一种新的植物性燃料，或者`Python`是一种主要分布在东南亚的濒危动物，那么该项目可能不适合您。
+> 如果您认为`BIOS`是一种新的植物性燃料，或者`Python`是一种主要分布在东南亚的濒危动物，那么该项目可能不适合您。
 
 在使用本脚本前，请确认跑步软件的名称为**阳光体育服务平台**，且Android包名为`com.aipao.hanmoveschool`。
 
@@ -38,7 +38,7 @@
   "Success": true,
   "Data": {
     "Token": "xxx",
-    "UserId": xxx,
+    "UserId": 114514,
     "IMEICode": "xxx",
     "AndroidVer": 2.40,
     "AppleVer": 1.24,
